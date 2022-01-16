@@ -1,0 +1,161 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ashre\OneDrive\Desktop\COE328Lab6\Register\simulation\qsim
+vlatch1
+Z1 !s100 _he8A^?o?M_<77`d?85Hl1
+Z2 Ij;[N`54T`We6emiN2FFjY3
+Z3 V2Lll@c=f>6G3nWhja9;F:3
+Z4 dC:\Users\ashre\OneDrive\Desktop\COE328Lab6\Register\simulation\qsim
+Z5 w1606427065
+Z6 8Register.vo
+Z7 FRegister.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Register.vo|
+Z10 o-work work -O0
+Z11 !s108 1606427065.926000
+Z12 !s107 Register.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vlatch1_vlg_check_tst
+Z13 !s100 kVeF[[1icDbHSND5aVkhN0
+Z14 ICSQ8Pk9J9_5kPnQC3KDg;1
+Z15 ViC7neldEST@S1?@D9Qch^0
+R4
+Z16 w1606427064
+Z17 8Register.vt
+Z18 FRegister.vt
+L0 61
+R8
+r1
+31
+Z19 !s108 1606427065.999000
+Z20 !s107 Register.vt|
+Z21 !s90 -work|work|Register.vt|
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vlatch1_vlg_sample_tst
+Z22 !s100 CTHlJS^QGN9_]TcJZPNc70
+Z23 I4AR2Q8U>IlD:>`I[8`XV<3
+Z24 VijGFTm5Rl3TJMoU?;S>Bb0
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+31
+R19
+R20
+R21
+R10
+!i10b 1
+!s85 0
+!s101 -O0
+vlatch1_vlg_vec_tst
+Z25 In6zUG64_]im31[?[jFL[43
+Z26 VA5RL8jHe=:6WkUNZBLF5O3
+R4
+R16
+R17
+R18
+Z27 L0 281
+R8
+r1
+31
+R19
+R20
+R21
+R10
+Z28 !s100 JJHVKTnHKNDf66i4@5dTc3
+!i10b 1
+!s85 0
+!s101 -O0
+vLatchDiagram
+Z29 !s100 GbG;0k^JA@W:Qe3IG>7Iz2
+Z30 I<5WZi=6NCXTK3FlU;2hXn3
+Z31 V?`5oS`18BHPZ?@bM]_60[2
+R4
+Z32 w1607025827
+R6
+R7
+L0 31
+R8
+r1
+31
+R9
+R10
+Z33 n@latch@diagram
+!i10b 1
+!s85 0
+Z34 !s108 1607025828.345000
+R12
+!s101 -O0
+vLatchDiagram_vlg_check_tst
+!i10b 1
+Z35 !s100 R>MAga2PL[IJOfRS`3eoz3
+Z36 I`_]fYP?zc7NUZzXk9<W]Z3
+Z37 V>CDa^5Z6MjH[GfO0ITjBh3
+R4
+Z38 w1607025826
+R17
+R18
+L0 61
+R8
+r1
+!s85 0
+31
+Z39 !s108 1607025828.436000
+Z40 !s107 Register.vt|
+R21
+!s101 -O0
+R10
+Z41 n@latch@diagram_vlg_check_tst
+vLatchDiagram_vlg_sample_tst
+!i10b 1
+Z42 !s100 0cPoXd6SneelCknRCcSDP1
+Z43 IZ`Nec;;nF9ojDi>;E>9dn2
+Z44 VgELYO@Yz`H@49iZ>J2H:f1
+R4
+R38
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R39
+R40
+R21
+!s101 -O0
+R10
+Z45 n@latch@diagram_vlg_sample_tst
+vLatchDiagram_vlg_vec_tst
+!i10b 1
+!s100 i^0ESko5P0TU`?NJIOXGY2
+IGYOYKOIVLoGGDC1SAQL6G1
+Z46 VDlik7JYJRbYG78;<<=TKT3
+R4
+R38
+R17
+R18
+R27
+R8
+r1
+!s85 0
+31
+R39
+R40
+R21
+!s101 -O0
+R10
+Z47 n@latch@diagram_vlg_vec_tst

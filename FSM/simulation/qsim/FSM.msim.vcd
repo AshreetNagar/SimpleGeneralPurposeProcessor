@@ -1,0 +1,460 @@
+$comment
+	File created using the following command:
+		vcd file FSM.msim.vcd -direction
+$end
+$date
+	Thu Dec 03 15:28:06 2020
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module FSMDiagram_vlg_vec_tst $end
+$var reg 1 ! clk $end
+$var reg 1 " data_in $end
+$var reg 1 # reset $end
+$var wire 1 $ current_state [3] $end
+$var wire 1 % current_state [2] $end
+$var wire 1 & current_state [1] $end
+$var wire 1 ' current_state [0] $end
+$var wire 1 ( student_id [3] $end
+$var wire 1 ) student_id [2] $end
+$var wire 1 * student_id [1] $end
+$var wire 1 + student_id [0] $end
+$var wire 1 , sampler $end
+$scope module i1 $end
+$var wire 1 - gnd $end
+$var wire 1 . vcc $end
+$var wire 1 / unknown $end
+$var tri1 1 0 devclrn $end
+$var tri1 1 1 devpor $end
+$var tri1 1 2 devoe $end
+$var wire 1 3 current_state[3]~output_o $end
+$var wire 1 4 current_state[2]~output_o $end
+$var wire 1 5 current_state[1]~output_o $end
+$var wire 1 6 current_state[0]~output_o $end
+$var wire 1 7 student_id[3]~output_o $end
+$var wire 1 8 student_id[2]~output_o $end
+$var wire 1 9 student_id[1]~output_o $end
+$var wire 1 : student_id[0]~output_o $end
+$var wire 1 ; clk~input_o $end
+$var wire 1 < clk~inputclkctrl_outclk $end
+$var wire 1 = inst|yfsm.s0~0_combout $end
+$var wire 1 > reset~input_o $end
+$var wire 1 ? reset~inputclkctrl_outclk $end
+$var wire 1 @ data_in~input_o $end
+$var wire 1 A inst|yfsm.s0~q $end
+$var wire 1 B inst|yfsm.s1~0_combout $end
+$var wire 1 C inst|yfsm.s1~q $end
+$var wire 1 D inst|yfsm.s2~q $end
+$var wire 1 E inst|yfsm.s3~q $end
+$var wire 1 F inst|yfsm.s4~q $end
+$var wire 1 G inst|yfsm.s5~q $end
+$var wire 1 H inst|yfsm.s6~feeder_combout $end
+$var wire 1 I inst|yfsm.s6~q $end
+$var wire 1 J inst|yfsm.s7~q $end
+$var wire 1 K inst|yfsm.s8~feeder_combout $end
+$var wire 1 L inst|yfsm.s8~q $end
+$var wire 1 M inst|WideOr13~0_combout $end
+$var wire 1 N inst|WideOr14~0_combout $end
+$var wire 1 O inst|WideOr15~combout $end
+$var wire 1 P inst|Selector9~0_combout $end
+$var wire 1 Q inst|Selector9~1_combout $end
+$var wire 1 R inst|Selector10~0_combout $end
+$var wire 1 S inst|WideOr15~0_combout $end
+$var wire 1 T inst|Selector10~1_combout $end
+$var wire 1 U inst|Selector11~0_combout $end
+$var wire 1 V inst|Selector11~1_combout $end
+$var wire 1 W inst|Selector12~0_combout $end
+$var wire 1 X inst|Selector12~1_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+1"
+0#
+0'
+0&
+0%
+0$
+1+
+0*
+1)
+0(
+x,
+0-
+1.
+x/
+10
+11
+12
+03
+04
+05
+06
+07
+18
+09
+1:
+0;
+0<
+1=
+0>
+0?
+1@
+0A
+1B
+0C
+0D
+0E
+0F
+0G
+0H
+0I
+0J
+0K
+0L
+0M
+0N
+0O
+1P
+0Q
+1R
+1S
+1T
+0U
+0V
+0W
+1X
+$end
+#40000
+1!
+1;
+1<
+0,
+1C
+1A
+0R
+0B
+1O
+0X
+16
+0:
+1'
+0+
+0T
+08
+0)
+#80000
+0!
+0;
+0<
+1,
+#120000
+1!
+1;
+1<
+0,
+1D
+0C
+1W
+1N
+0O
+15
+06
+1&
+0'
+#160000
+0!
+0;
+0<
+1,
+#200000
+1!
+1;
+1<
+0,
+1E
+0D
+0S
+0P
+0W
+1O
+16
+1'
+1X
+1Q
+1:
+17
+1+
+1(
+#240000
+0!
+0;
+0<
+1,
+#280000
+1!
+1;
+1<
+0,
+1F
+0E
+1W
+1R
+1S
+1P
+1V
+1M
+0O
+0N
+19
+14
+06
+05
+1*
+1%
+0'
+0&
+0X
+1T
+0Q
+0:
+18
+07
+0+
+1)
+0(
+#320000
+0!
+0;
+0<
+1,
+#360000
+1!
+1;
+1<
+0,
+1G
+0F
+0S
+0P
+1H
+0W
+0R
+1O
+0V
+16
+09
+1'
+0*
+1X
+0T
+1Q
+1:
+08
+17
+1+
+0)
+1(
+#400000
+0!
+0;
+0<
+1,
+#440000
+1!
+1;
+1<
+0,
+1I
+0G
+1W
+1U
+1R
+1S
+1P
+0H
+1N
+0O
+15
+06
+1&
+0'
+0X
+1V
+1T
+0Q
+0:
+19
+18
+07
+0+
+1*
+1)
+0(
+#480000
+0!
+0;
+0<
+1,
+#520000
+1!
+1;
+1<
+0,
+1J
+0I
+0S
+1K
+0W
+0R
+1O
+16
+1'
+1X
+0T
+1:
+08
+1+
+0)
+#560000
+0!
+0;
+0<
+1,
+#600000
+1!
+1;
+1<
+0,
+0J
+1L
+0U
+1S
+0K
+1W
+0=
+13
+1$
+0O
+0N
+0M
+1T
+06
+05
+04
+18
+0'
+0&
+0%
+1)
+0X
+0:
+0+
+#640000
+0!
+0;
+0<
+1,
+#680000
+1!
+1;
+1<
+0,
+0A
+0L
+1R
+1B
+0W
+1=
+03
+0$
+1X
+0V
+0T
+1:
+09
+08
+1+
+0*
+0)
+1T
+18
+1)
+#720000
+0!
+0;
+0<
+1,
+#760000
+1!
+1;
+1<
+0,
+1C
+1A
+0R
+0B
+1O
+0X
+16
+0:
+1'
+0+
+0T
+08
+0)
+#800000
+0!
+0;
+0<
+1,
+#840000
+1!
+1;
+1<
+0,
+1D
+0C
+1W
+1N
+0O
+15
+06
+1&
+0'
+#880000
+0!
+0;
+0<
+1,
+#920000
+1!
+1;
+1<
+0,
+1E
+0D
+0S
+0P
+0W
+1O
+16
+1'
+1X
+1Q
+1:
+17
+1+
+1(
+#960000
+0!
+0;
+0<
+1,
+#1000000

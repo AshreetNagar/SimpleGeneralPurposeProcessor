@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\ashre\OneDrive\Desktop\COE328Lab6\Decoder\simulation\qsim
+vDecoderDiagram
+Z1 !s100 JCkz:kmbd8X87gBhcnAbF2
+Z2 IR679e4KZ3eRaEOV15TGFc0
+Z3 VeZPS@PTICkPe_Nfc3T5X@2
+Z4 dC:\Users\ashre\OneDrive\Desktop\COE328Lab6\Decoder\simulation\qsim
+Z5 w1607026462
+Z6 8Decoder.vo
+Z7 FDecoder.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Decoder.vo|
+Z10 o-work work -O0
+Z11 n@decoder@diagram
+!i10b 1
+!s85 0
+Z12 !s108 1607026463.234000
+Z13 !s107 Decoder.vo|
+!s101 -O0
+vDecoderDiagram_vlg_check_tst
+!i10b 1
+Z14 !s100 7kP^CmJEfSm^bdDlYS;DW2
+Z15 ION8?PafzYk2D`aBcTBJmD2
+Z16 VdNi>XaVkXNI@jS8n8THk@3
+R4
+R5
+Z17 8Decoder.vt
+Z18 FDecoder.vt
+L0 59
+R8
+r1
+!s85 0
+31
+Z19 !s108 1607026463.449000
+Z20 !s107 Decoder.vt|
+Z21 !s90 -work|work|Decoder.vt|
+!s101 -O0
+R10
+Z22 n@decoder@diagram_vlg_check_tst
+vDecoderDiagram_vlg_sample_tst
+!i10b 1
+Z23 !s100 24UTPje;74DV2>iFH18330
+Z24 IQmaF>H:T2zhUGXjJ[<JFJ0
+Z25 VoET3BWSb[RMOeOhSNdR0T3
+R4
+R5
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z26 n@decoder@diagram_vlg_sample_tst
+vDecoderDiagram_vlg_vec_tst
+!i10b 1
+!s100 cM1`4POfSe[4Aa^KQn?:C3
+IkDVSmVhMn0TO<m;7<9A1H3
+Z27 V?V@z69MXgnh^eCnUi[OeN2
+R4
+R5
+R17
+R18
+Z28 L0 423
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z29 n@decoder@diagram_vlg_vec_tst
